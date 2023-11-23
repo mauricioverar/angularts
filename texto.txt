@@ -1,0 +1,27 @@
+npm install -g @angular/cli
+
+ng version
+
+Angular CLI: 17.0.3
+Node: 20.9.0
+Package Manager: npm 10.1.0
+OS: win32 x64
+
+ng new miprimerproyecto
+
+scss Yes
+ssr No
+
+*entrar en carpeta creada
+ng generate component primercomponente
+ó
+ng g c segundocomponente
+
+ng serve
+*para ejecutar servidor
+http://localhost:4200/
+
+*crear componente header
+ng g c header
+ng g c atributo
+ng g c estructural
